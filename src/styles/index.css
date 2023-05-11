@@ -1,12 +1,74 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.all {
+    display: inline-block;
+    font-size: 100px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.one{
+    width: 10%;
+    border: grey solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: rgb(34, 32, 32);
+}
+.two{
+    width: 10%;
+    border: grey solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: rgb(34, 32, 32);
+}
+.three{
+    width: 10%;
+    border: grey solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: rgb(34, 32, 32);
+}
+.four{
+    width: 10%;
+    border: grey solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: rgb(34, 32, 32);
+}
+.five{
+    width: 10%;
+    border: grey solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: rgb(34, 32, 32);
+}
+.six{
+    width: 10%;
+    border: grey solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: rgb(34, 32, 32);
+}
+.clock{
+    width: 10%;
+    border: grey solid 2px;
+    border-radius: 10px;
+    padding: 3px;
+    text-align: center;
+    margin-right: 15px;
+    background-color: rgb(34, 32, 32);
+}
